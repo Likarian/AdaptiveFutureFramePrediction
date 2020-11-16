@@ -1,7 +1,7 @@
 # AdaptiveFutureFramePrediction
 Code and Data of 'Adaptive Future Frame Prediction with Ensemble Network,' ICPRW 2020
 
-* Code and Data (5.4GB) : https://drive.google.com/file/d/1E30DpI0Pc8X0sQsbTPtr7WJ2ijSfIQP1/view?usp=sharing
+* ICPRW_Data_Code (5.4GB) : https://drive.google.com/file/d/1E30DpI0Pc8X0sQsbTPtr7WJ2ijSfIQP1/view?usp=sharing
   
 The paper of the data :  
  **Wonjik Kim, Masayuki Tanaka, Masatoshi Okutomi, Yoko Sasaki, "Adaptive Future Frame Prediction with Ensemble Network", International Conference on Pattern Recognition Workshop, 2020.** ([link](https://arxiv.org/abs/2011.06788))
