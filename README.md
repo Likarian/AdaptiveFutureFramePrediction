@@ -21,10 +21,10 @@ In your own directory, please run the following command in terminal.
 ### Sample code
 You can see sample code for performance evaluation. When you want to check sample code, please run the following command in that directory.
 <br>
-Test with pre-trained only (Table 1 in the paper)
+- Test with pre-trained only (Table 1 in the paper)
 > python Test_PreTrained.py
 <br>
-Test with online-updating (Table 2 in the paper)
+- Test with online-updating (Table 2 in the paper)
 > python Test_EnsembleNetwork.py
 
 ---
