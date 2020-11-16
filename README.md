@@ -18,6 +18,8 @@ In your own directory, please run the following command in terminal.
 <br>
 > bash ./DownloadAndUnzip.sh 
 
+You can also download directly through the URL and unzip it.
+
 ### Sample code
 You can see sample code for performance evaluation. When you want to check sample code, please run the following command in that directory.
 <br>
