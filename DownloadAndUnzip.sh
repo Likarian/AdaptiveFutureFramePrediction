@@ -1,2 +1,2 @@
-wget https://drive.google.com/file/d/1E30DpI0Pc8X0sQsbTPtr7WJ2ijSfIQP1/view?usp=sharing
+wget --load-cookies /tmp/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies /tmp/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1E30DpI0Pc8X0sQsbTPtr7WJ2ijSfIQP1' -O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1E30DpI0Pc8X0sQsbTPtr7WJ2ijSfIQP1" -O ICPRW_Data_Code.zip && rm -rf /tmp/cookies.txt
 unzip ICPRW_Data_Code.zip
